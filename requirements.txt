@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+python-dotenv
+python-jose
+slowapi
+loguru
+PyJWT
